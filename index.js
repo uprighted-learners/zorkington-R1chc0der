@@ -85,7 +85,7 @@ class room {
 
 
   roomInfo(){
-    console.log(`Wow this is the weirdness ${this.description} exit point seem to be ${this.connection} items are ${this.inventory}`)
+    console.log(`Wow this is .. the weirdness ${this.description} exit point seem to be ${this.connection} items are ${this.inventory}`)
   }
 }  
 
